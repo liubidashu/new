@@ -4,3 +4,8 @@
 ```bash
 git pull origin main
 ```
+### Вернуть код обратно
+
+```bash
+git stash apply
+```
